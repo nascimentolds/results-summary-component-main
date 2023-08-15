@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My solution on Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [See my solution running](https://your-live-site-url.com)
+- Solution URL: [My solution on Frontend Mentor](https://www.frontendmentor.io/solutions/results-summary-component-react-and-next-js-1l9uM-4xbg)
+- Live Site URL: [See my solution running](https://results-summary-component-main-henna-chi.vercel.app/)
 
 ## My process
 
